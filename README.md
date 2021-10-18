@@ -2,9 +2,7 @@
 
 This is an Unreal Engine 4 Plugin that you can operator Git Repository. Support C++ and Blueprint.
 
-![](https://imzlp.me/notes/index/UE4/git-diff-in-ue4-no-runtime.png)
-
-
+![](https://imgs.imzlp.com/imgs/zlp/blog/notes/ue/index/UE4/git-diff-in-ue4-no-runtime.png)
 
 ## How do use?
 
